@@ -1,1 +1,1 @@
-# Explorotary-data-analysis-of-E-Commerce-sales
+# Explorotary data analysis of E-Commerce sale data
